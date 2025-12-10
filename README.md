@@ -20,9 +20,6 @@ _Competitive Matchmaking System (Faceit Competitor)_
 
 ### 🛠 Languages & Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-### 🛠 Languages & Tools
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Antigravity](https://img.shields.io/badge/PHYSICS-ANTIGRAVITY-8A2BE2?style=for-the-badge&logo=atom&logoColor=white)
@@ -31,4 +28,10 @@ _Competitive Matchmaking System (Faceit Competitor)_
 
 ### ⚡ GitHub Stats
 
-![INEXX's GitHub stats](https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=dark)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=dark&hide_border=true" alt="INEXX Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INEXX-max&layout=compact&theme=dark&hide_border=true" alt="INEXX Languages" />
+</p>
