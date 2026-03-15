@@ -44,7 +44,13 @@ Custom Game Engine (C++ / Low-level): My core project, built from scratch to und
 
 ## 💡 How I Think
 
-I don't talk about discipline. I just operate that way.
+Discipline is an Operating System, Not a Word: In my world, discipline isn't a topic of conversation; it's an automated system. Working out 5 days a week for 3 years without fail or ending my professional CS career for greater visions are the "runtime" outputs of this system.
+
+Soil and Code: Same Patience, Same Resilience: Growing up in apricot orchards taught me not to fall for the illusion of "quick results." Just like a tree, a system requires time and consistency to mature. When things get tough, I don't walk away; I start digging deeper.
+
+Daily Driver: Fedora Linux: I believe a modern developer shouldn't be afraid to "open the hood" of their system. Spending my daily life on Fedora isn't just a preference; it's my method for experiencing the interaction between hardware, kernel, and user space every single day.
+
+Analytical Pragmatism: I don't waste time with unnecessary theoretical debates. If there's a problem, I design the most efficient algorithm and perform the "surgery." It's not enough for my code to just work; it must be sustainable and performant.
 
 ---
 
