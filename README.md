@@ -8,12 +8,6 @@ My long-term goal is to write my own game engine from scratch — which means I 
 
 ## 🚀 What I'm Building
 
-**[XIX](https://inexxinteractive.com)** — A next-gen game distribution platform (Steam competitor)  
-Architecting the infrastructure to support millions of players with better revenue models for developers.
-
-**NEXEN** — Competitive Matchmaking System (Faceit competitor)  
-Developing a high-performance matchmaking algorithm for fair and competitive gameplay.
-
 **Custom Game Engine** *(in progress)*  
 Writing my own engine from scratch. Currently laying the foundation in Java and Python. C++ is next.
 
