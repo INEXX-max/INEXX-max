@@ -8,12 +8,21 @@ My long-term goal is to write my own game engine from scratch — which means I 
 
 ## 🚀 What I'm Building
 
-LernStack: A scalable and comprehensive education ecosystem modernizing the software learning process. I transform complex information into a structured flow using Next.js, Node.js, and modern backend architectures.
+**LernStack** — A scalable education ecosystem modernizing the software learning process. Transforming complex information into structured flow using Next.js, Node.js, and modern backend architectures.
 
-Linux & Open Source Community: I approach systems not just as a user, but as an architect. I contribute to the Fedora and Zorin OS ecosystems with community-driven developments, focusing on system-level optimizations and tools.
+**Linux & Open Source Community** — I approach systems not just as a user, but as an architect. Contributing to the Fedora and Zorin OS ecosystems with a focus on system-level optimizations and tools.
 
-Custom Game Engine (C++ / Low-level): My core project, built from scratch to understand exactly where software meets hardware. By focusing on GPUs and memory management, I aim to produce technology rather than just consume it.
+**Custom Game Engine (C++ / Low-level)** — My core project, built from scratch to understand exactly where software meets hardware. Focusing on GPUs and memory management to produce technology, not just consume it.
 
+---
+
+## 📂 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎮 CS2 Top Performer Prediction | ML model — PGL Major 2024 player analysis | [Repo](https://github.com/INEXX-max/cs2-top-performer-analysis) • [Kaggle](https://www.kaggle.com/code/inexxcsgo/notebook99a861ef6b) |
+| 🎮 XIX | Next-gen game distribution platform | [inexxinteractive.com](https://inexxinteractive.com) |
+| ⚙️ Game Engine | Custom engine from scratch — C++ / Low-level | In Progress |
 
 ---
 
@@ -35,22 +44,22 @@ Custom Game Engine (C++ / Low-level): My core project, built from scratch to und
 
 ## 🧠 What I'm Currently Learning
 
-- **Java Spring Boot** — backend systems and API architecture  
-- **Python + AI/ML** — working with real datasets on Kaggle, not just tutorials  
-- **C++** — next on the roadmap, essential for the engine  
-- **Linux internals** — I daily drive Fedora and Zorin OS, I study how things work at the system level  
+- **Java Spring Boot** — backend systems and API architecture
+- **Python + AI/ML** — working with real datasets on Kaggle, not just tutorials
+- **C++** — next on the roadmap, essential for the engine
+- **Linux internals** — I daily drive Fedora and Zorin OS, studying how things work at the system level
 
 ---
 
 ## 💡 How I Think
 
-Discipline is an Operating System, Not a Word: In my world, discipline isn't a topic of conversation; it's an automated system. Working out 5 days a week for 3 years without fail or ending my professional CS career for greater visions are the "runtime" outputs of this system.
+**Discipline is an Operating System, Not a Word** — In my world, discipline isn't a topic of conversation; it's an automated system. Working out 5 days a week for 3 years without fail, or ending my professional CS career for greater visions — these are the runtime outputs of this system.
 
-Soil and Code: Same Patience, Same Resilience: Growing up in apricot orchards taught me not to fall for the illusion of "quick results." Just like a tree, a system requires time and consistency to mature. When things get tough, I don't walk away; I start digging deeper.
+**Soil and Code: Same Patience, Same Resilience** — Growing up in apricot orchards taught me not to fall for the illusion of quick results. Just like a tree, a system requires time and consistency to mature. When things get tough, I don't walk away — I start digging deeper.
 
-Daily Driver: Fedora Linux: I believe a modern developer shouldn't be afraid to "open the hood" of their system. Spending my daily life on Fedora isn't just a preference; it's my method for experiencing the interaction between hardware, kernel, and user space every single day.
+**Daily Driver: Fedora Linux** — I believe a modern developer shouldn't be afraid to open the hood of their system. Spending my daily life on Fedora isn't just a preference; it's my method for experiencing the interaction between hardware, kernel, and user space every single day.
 
-Analytical Pragmatism: I don't waste time with unnecessary theoretical debates. If there's a problem, I design the most efficient algorithm and perform the "surgery." It's not enough for my code to just work; it must be sustainable and performant.
+**Analytical Pragmatism** — I don't waste time with unnecessary theoretical debates. If there's a problem, I design the most efficient solution and execute. It's not enough for my code to just work — it must be sustainable and performant.
 
 ---
 
@@ -63,7 +72,7 @@ Analytical Pragmatism: I don't waste time with unnecessary theoretical debates. 
 
 ## 📫 Reach Me
 
-🌐 [inexxinteractive.com](https://inexxinteractive.com)  
+🌐 [inexxinteractive.com](https://inexxinteractive.com)
 📧 muhammedinanc4423@gmail.com
 
 ---
