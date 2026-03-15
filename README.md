@@ -8,8 +8,12 @@ My long-term goal is to write my own game engine from scratch — which means I 
 
 ## 🚀 What I'm Building
 
-**Custom Game Engine** *(in progress)*  
-Writing my own engine from scratch. Currently laying the foundation in Java and Python. C++ is next.
+LernStack: A scalable and comprehensive education ecosystem modernizing the software learning process. I transform complex information into a structured flow using Next.js, Node.js, and modern backend architectures.
+
+Linux & Open Source Community: I approach systems not just as a user, but as an architect. I contribute to the Fedora and Zorin OS ecosystems with community-driven developments, focusing on system-level optimizations and tools.
+
+Custom Game Engine (C++ / Low-level): My core project, built from scratch to understand exactly where software meets hardware. By focusing on GPUs and memory management, I aim to produce technology rather than just consume it.
+
 
 ---
 
