@@ -40,12 +40,6 @@ Writing my own engine from scratch. Currently laying the foundation in Java and 
 
 ## 💡 How I Think
 
-I grew up farming. My family grows apricots. I grow my own tomatoes.  
-That taught me early: results take time, and you don't walk away when things get hard.
-
-I trained at the gym for 3 years straight, 4-5 days a week.  
-I played Counter-Strike at a semi-pro level — then quit to focus on things that actually matter.
-
 I don't talk about discipline. I just operate that way.
 
 ---
