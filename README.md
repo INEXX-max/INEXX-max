@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=CYBERPUNK%20X%20MINIMAL%20PRO&fontSize=24&fontColor=BFE9FF&animation=twinkling&color=0:0B1220,100:101A2E" alt="theme stripe" />
+</div>
+
+<div align="center">
   <a href="https://github.com/INEXX-max">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Muhammed+%F0%9F%91%8B;Computer+Science+Student+%40+Inonu+University;Java+Backend+Builder+%7C+Python+ML+Explorer;Node.js+%2B+Express+Web+App+Creator;Fedora+Linux+Power+User+%7C+Open+Source+Lover" alt="typing" />
   </a>
@@ -56,29 +60,49 @@
 ## Project Arsenal
 
 ### Data Science and ML
-| Project | What it does | Links |
-|---|---|---|
-| Kvasir Pathfinder | GI tract disease classification on HyperKvasir with deep learning pipelines and exploratory notebook analysis. | [Repo](https://github.com/INEXX-max/kvasir-pathfinder) • [Kaggle](https://www.kaggle.com/code/inexxcsgo/kvasir-pathfinder) |
-| CS2 Top Performer | Performance analytics and prediction from PGL Major 2024 player-level statistics. | [Repo](https://github.com/INEXX-max/cs2-top-performer-analysis) • [Kaggle](https://www.kaggle.com/code/inexxcsgo/notebook99a861ef6b) |
+| Project | Tech | What it does | Links |
+|---|---|---|---|
+| Kvasir Pathfinder | `Python` `PyTorch` `Data Exploration` | GI tract disease classification on HyperKvasir with deep learning pipelines and exploratory notebook analysis. | [Repo](https://github.com/INEXX-max/kvasir-pathfinder) • [Kaggle](https://www.kaggle.com/code/inexxcsgo/kvasir-pathfinder) |
+| CS2 Top Performer | `Python` `Analytics` `Prediction` | Performance analytics and prediction from PGL Major 2024 player-level statistics. | [Repo](https://github.com/INEXX-max/cs2-top-performer-analysis) • [Kaggle](https://www.kaggle.com/code/inexxcsgo/notebook99a861ef6b) |
 
 ### Web Development
-| Project | What it does | Link |
-|---|---|---|
-| ISG Education Portal | Full-stack OHS learning portal with courses, exams, chat, role logic, and admin controls. | [Repo](https://github.com/INEXX-max/isg-proje) |
-| INEXX Interactive | Auth-heavy member platform with OAuth, 2FA, upload system, and admin management panel. | [Repo](https://github.com/INEXX-max/-NEXX--NTERACT-VE-) |
+| Project | Tech | What it does | Link |
+|---|---|---|---|
+| ISG Education Portal | `Node.js` `Full Stack` `Admin Panel` | Full-stack OHS learning portal with courses, exams, chat, role logic, and admin controls. | [Repo](https://github.com/INEXX-max/isg-proje) |
+| INEXX Interactive | `OAuth` `2FA` `Dashboard` | Auth-heavy member platform with OAuth, 2FA, upload system, and admin management panel. | [Repo](https://github.com/INEXX-max/-NEXX--NTERACT-VE-) |
 
 ### Java and Systems
-| Project | What it does | Link |
-|---|---|---|
-| ATM Project | Spring Boot banking REST API for core account flow and transaction operations. | [Repo](https://github.com/INEXX-max/Atm_Project) |
-| Smart Bus System | Intelligent bus coordination simulation powered by route logic and sensor-inspired telemetry. | [Repo](https://github.com/INEXX-max/smart-bus-system) |
+| Project | Tech | What it does | Link |
+|---|---|---|---|
+| ATM Project | `Java` `Spring Boot` `REST API` | Spring Boot banking REST API for core account flow and transaction operations. | [Repo](https://github.com/INEXX-max/Atm_Project) |
+| Smart Bus System | `Java` `IoT Simulation` `Routing` | Intelligent bus coordination simulation powered by route logic and sensor-inspired telemetry. | [Repo](https://github.com/INEXX-max/smart-bus-system) |
 
 ### Python Learning Track
-| Project | What it does | Link |
-|---|---|---|
-| Python Basics | Core language learning notes and examples from variables to file and exception handling. | [Repo](https://github.com/INEXX-max/python-basics) |
-| Simple Calculator | CLI calculator app with history and robust command flow. | [Repo](https://github.com/INEXX-max/simple-calculator) |
-| File Organizer | File sorting utility with safe dry-run and undo operations. | [Repo](https://github.com/INEXX-max/file-organizer) |
+| Project | Tech | What it does | Link |
+|---|---|---|---|
+| Python Basics | `Python` `Fundamentals` | Core language learning notes and examples from variables to file and exception handling. | [Repo](https://github.com/INEXX-max/python-basics) |
+| Simple Calculator | `CLI` `Python` | CLI calculator app with history and robust command flow. | [Repo](https://github.com/INEXX-max/simple-calculator) |
+| File Organizer | `Automation` `Filesystem` | File sorting utility with safe dry-run and undo operations. | [Repo](https://github.com/INEXX-max/file-organizer) |
+
+### Repository Spotlight
+
+<div align="center">
+  <a href="https://github.com/INEXX-max/kvasir-pathfinder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=kvasir-pathfinder&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee&border_color=334155" alt="kvasir" />
+  </a>
+  <a href="https://github.com/INEXX-max/cs2-top-performer-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=cs2-top-performer-analysis&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee&border_color=334155" alt="cs2" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/INEXX-max/Atm_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=Atm_Project&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee&border_color=334155" alt="atm" />
+  </a>
+  <a href="https://github.com/INEXX-max/isg-proje">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=isg-proje&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee&border_color=334155" alt="isg" />
+  </a>
+</div>
 
 ---
 
