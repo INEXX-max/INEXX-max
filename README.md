@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=MUHAMMED%20%7C%20INEXX&fontSize=60&fontColor=E6F1FF&stroke=89D1FF&animation=fadeIn&color=0:050816,25:102040,60:1D4B7A,100:57B8FF" alt="hero" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=INEXX&fontSize=74&fontColor=E6F1FF&stroke=89D1FF&animation=fadeIn&color=0:050816,25:102040,60:1D4B7A,100:57B8FF" alt="hero" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=CYBERPUNK%20X%20MINIMAL%20PRO&fontSize=24&fontColor=BFE9FF&animation=twinkling&color=0:0B1220,100:101A2E" alt="theme stripe" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=INEXX%20PROFILE&fontSize=28&fontColor=BFE9FF&animation=twinkling&color=0:0B1220,100:101A2E" alt="theme stripe" />
 </div>
 
 <div align="center">
   <a href="https://github.com/INEXX-max">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&center=true&vCenter=true&width=980&lines=Hi%2C+I'm+Muhammed+%F0%9F%91%8B;Computer+Science+Student+%40+Inonu+University;Java+Backend+Builder+%7C+Python+ML+Explorer;Node.js+%2B+Express+Web+App+Creator;Fedora+Linux+Power+User+%7C+Open+Source+Lover" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&center=true&vCenter=true&width=980&lines=INEXX;Computer+Science+Student+%40+Inonu+University;Java+Backend+Builder+%7C+Python+ML+Explorer;Node.js+%2B+Express+Web+App+Creator;Fedora+Linux+Power+User+%7C+Open+Source+Lover" alt="typing" />
   </a>
 </div>
 
@@ -130,12 +130,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=INEXX-max&bg_color=0b1220&color=38bdf8&line=22d3ee&point=f59e0b&area=true&hide_border=true" alt="activity" />
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INEXX-max&theme=github_dark" alt="repos per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INEXX-max&theme=github_dark" alt="most commit language" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=INEXX-max&theme=github_dark" alt="stats card" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=INEXX-max&theme=github_dark&utcOffset=3" alt="productive time" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/INEXX-max" alt="github contribution chart" />
+</div>
+
 ---
 
-## Animated Zone
+## Snake Game Commit Zone
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake-dark.svg" alt="snake dark" />
 </div>
 
 <div align="center">
