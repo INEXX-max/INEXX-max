@@ -37,7 +37,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**Mohammed Inan** — building real projects every week.
+**Muhammed İnanç* — building real projects every week.
 
 - 🎓 CS @ Inonu University, Year 1
 - 🔧 Main: Java Spring Boot + Kotlin Android
