@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- INEXX Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=shark&height=280&text=INEXX&fontSize=110&fontColor=00F5FF&stroke=00F5FF&strokeWidth=3&animation=fadeIn&color=0:000000,30:020d1f,60:031428,100:000000&desc=Muhammed%20İnanç%20%7C%20Builder%20%7C%20Explorer&descAlignY=72&descSize=17&descColor=7ecfff" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=280&text=INEXX&fontSize=110&fontColor=00F5FF&stroke=00F5FF&strokeWidth=3&animation=fadeIn&color=0:000000,30:020d1f,60:031428,100:000000&desc=Builder%20%7C%20Explorer%20%7C%20Hacker&descAlignY=72&descSize=17&descColor=7ecfff" />
 
 </div>
 
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=960&lines=INEXX+%E2%80%94+Muhammed+%C4%B0nan%C3%A7;Java+Spring+Boot+%7C+Kotlin+Android+%7C+Python;Machine+Learning+%7C+Deep+Learning+%7C+CV;CachyOS+%2B+Linux+Terminal+Workflow;Building+real+projects%2C+one+commit+at+a+time." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=960&lines=INEXX+%E2%80%94+Builder+%7C+Explorer+%7C+Hacker;Java+Spring+Boot+%7C+Kotlin+Android+%7C+Python;Machine+Learning+%7C+Deep+Learning+%7C+CV;CachyOS+%2B+Linux+Terminal+Workflow;Building+real+projects%2C+one+commit+at+a+time." />
 
 </div>
 
@@ -62,16 +62,14 @@
 <tr>
 <td valign="top" width="50%">
 
-**Muhammed İnanç** — CS Student @ İnönü University.
+**INEXX** — Full-Stack Developer & ML Enthusiast.
 
-- 🎓 Computer Science, Year 1 — İnönü Üniversitesi
 - 🐧 Daily driver: **CachyOS** (Arch-based) + terminal-first workflow
 - ☕ **Java** Spring Boot backend architect
 - 📱 **Kotlin** Android (Compose, Hilt, Room)
 - 🤖 **Python** ML/DL — PyTorch, OpenCV, scikit-learn
 - 🌐 Node.js · Express full-stack web apps
 - 🧠 Exploring: microservices, Kafka, distributed systems
-- 🎯 2027 DGS hedefi — sürekli öğrenme modunda
 
 </td>
 <td valign="top" width="50%">
@@ -260,7 +258,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🍄 Super Mario Contributions
 
 <div align="center">
   <picture>
@@ -268,6 +266,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/mario-contribution.svg" alt="Mario breaking contribution blocks" />
 </div>
 
 <br/>
@@ -290,7 +294,7 @@
 
 ```text
 🔭  Exploring  →  Microservices · Kafka · Spring Cloud
-📚  Learning   →  Advanced Java algorithms · DGS 2027 prep
+📚  Learning   →  Advanced Java algorithms · System Design
 🔨  Building   →  WorkSafe Android + ISG Portal
 🤝  Open to    →  Collaborations · Open source · Internships
 💬  Ask me     →  Java Spring Boot · Kotlin Android · Python ML
