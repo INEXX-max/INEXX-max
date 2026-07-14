@@ -1,4 +1,4 @@
-name: Generate Mario Contribution Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -9,22 +9,12 @@ on:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Mario animation
-        uses: cicirello/mario-tiles@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          max-tiles: 5
-          tile-animation: true
-
-      - name: Generate Snake animation (dark)
+      - name: Generate Snake (light & dark)
         uses: Platane/snk@v3
         with:
           github_user_name: INEXX-max

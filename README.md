@@ -216,7 +216,7 @@
 
 ---
 
-## 🍄 Super Mario Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -224,12 +224,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/mario-contribution.svg" alt="Mario breaking contribution blocks" />
 </div>
 
 <br/>
