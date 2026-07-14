@@ -165,19 +165,6 @@
 | **Kvasir Pathfinder** | Python · PyTorch · CNN | GI tract disease classification on HyperKvasir dataset — medical imaging CV | [Repo](https://github.com/INEXX-max/kvasir-pathfinder) · [Kaggle](https://www.kaggle.com/code/inexxcsgo/kvasir-pathfinder) |
 | **CS2 Top Performer** | Python · Pandas · ML | Player performance prediction from PGL Major 2024 data | [Repo](https://github.com/INEXX-max/cs2-top-performer-analysis) · [Kaggle](https://www.kaggle.com/code/inexxcsgo/notebook99a861ef6b) |
 
-### 🌐 Web & Full-Stack
-
-| Project | Stack | Description | Link |
-|---------|-------|-------------|------|
-| **ISG Education Portal** | Node.js · Express · Full-Stack | OHS learning platform — courses, exams, live chat, role system, admin panel | [Repo](https://github.com/INEXX-max/isg-proje) |
-| **INEXX Interactive** | OAuth2 · 2FA · Node.js | Auth platform — OAuth2, 2FA, file upload, admin panel, security layers | [Repo](https://github.com/INEXX-max/-NEXX--NTERACT-VE-) |
-
-### 📱 Android (Kotlin)
-
-| Project | Stack | Description | Status |
-|---------|-------|-------------|--------|
-| **WorkSafe** | Kotlin · Compose · Room · Hilt | Industrial safety app — PPE checks, incident logging, wellbeing, offline-first | 🔨 Building |
-
 ### ☕ Java / Spring Boot
 
 | Project | Stack | Description | Link |
@@ -190,35 +177,6 @@
 | Project | Stack | Description | Link |
 |---------|-------|-------------|------|
 | **Flow Pomodoro** | Electron · JS · Canvas | Transparent animated timer — 6 languages, system tray, minimalist design | [Repo](https://github.com/INEXX-max/flow-pomodoro) |
-
----
-
-## 📌 Pinned Repos
-
-<div align="center">
-  <a href="https://github.com/INEXX-max/kvasir-pathfinder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=kvasir-pathfinder&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-  <a href="https://github.com/INEXX-max/cs2-top-performer-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=cs2-top-performer-analysis&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/INEXX-max/isg-proje">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=isg-proje&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-  <a href="https://github.com/INEXX-max/Atm_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=Atm_Project&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/INEXX-max/flow-pomodoro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=flow-pomodoro&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-  <a href="https://github.com/INEXX-max/-NEXX--NTERACT-VE-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=INEXX-max&repo=-NEXX--NTERACT-VE-&theme=radical&title_color=00f5ff&text_color=e2e8f0&icon_color=00ff9d&border_color=1a2744&bg_color=000d1a" />
-  </a>
-</div>
 
 ---
 
