@@ -1,24 +1,19 @@
-# Merhaba, ben İNEXX-max 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/223294838?v=4" width="150" alt="Muhammed İnanç">
+</p>
 
-🎓 İnönü Üniversitesi'nde öğrenciyim ve kendimi full-stack yazılım geliştirme alanında geliştiriyorum.
+<h2 align="center">Welcome to my world 🌍</h2>
 
-## 🛠️ Kullandığım Teknolojiler
+<h3 align="center">Hello! I'm Muhammed İnanç, a Full-Stack Developer & student at İnönü Üniversitesi.</h3>
 
-- **Backend:** Java, Spring Boot, Python, FastAPI
-- **Mobil:** Dart, Flutter
-- **Veritabanı:** PostgreSQL, Supabase
-- **Araçlar:** Git, Docker, Linux, IntelliJ IDEA, VS Code
+<h4 align="center">Portfolio: <a href="https://inexxinteractive.com">inexxinteractive.com</a></h4>
 
-## 🚀 Öne Çıkan Projeler
+[Sosyal ikonlar: GitHub, Kaggle, Gmail, Website]
 
-- **competition-platform** — Java Spring Boot, PostgreSQL ve Docker ile geliştirilen yarışma yönetim platformu
+### 👨‍💻 Languages and Tools
+Java · Spring Boot · Kotlin · Python · Dart · Flutter · JavaScript · Node.js · PostgreSQL · MySQL · MongoDB · Docker · Git · Linux · IntelliJ · VS Code rozetleri
 
-## 📊 GitHub İstatistiklerim
+### 📂 Public Projelerim (15 repo tablosu)
+Atm_Project, smart-bus-system, javaSpr-ngBootCamp, JavaDerseleri, BookSorter, m-ncraftSmallCapaning, kvasir-pathfinder, cs2-top-performer-analysis, python-basics, file-organizer, simple-calculator, isg-proje, NEXX INTERACTIVE, app-isgdester, linux-hub
 
-![İstatistikler](https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=tokyonight)
-
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=INEXX-max&layout=compact&theme=tokyonight)
-
-## 📫 Bana Ulaşın
-
-- GitHub: [@INEXX-max](https://github.com/INEXX-max)
+[GitHub stats kartı + ziyaretçi rozeti]
