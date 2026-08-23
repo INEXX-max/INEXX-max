@@ -52,30 +52,30 @@
 </blockquote>
 
 <p><strong>I’m a Night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% </span></span>
-<span class="line"><span>🌆 Daytime    55 commits     ████████░░░░░░░░░░░░░░░░░   31.55% </span></span>
-<span class="line"><span>🌃 Evening    54 commits     ███████░░░░░░░░░░░░░░░░░░   30.93% </span></span>
-<span class="line"><span>🌙 Night      40 commits     █████░░░░░░░░░░░░░░░░░░░░   22.89%</span></span>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.64% </span></span>
+<span class="line"><span>🌆 Daytime    98 commits     █████████░░░░░░░░░░░░░░░░   31.55% </span></span>
+<span class="line"><span>🌃 Evening    95 commits     █████████░░░░░░░░░░░░░░░░   30.93% </span></span>
+<span class="line"><span>🌙 Night      71 commits     ███████░░░░░░░░░░░░░░░░░░   22.89%</span></span>
 </code></pre>
 
 <p>📊 <strong>This Week I Spent My Time On</strong></p>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Europe/Istanbul</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>💬 Programming Languages: </span></span>
-<span class="line"><span>Java             5 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   34.87% </span></span>
-<span class="line"><span>Python           4 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69% </span></span>
-<span class="line"><span>PHP              3 hrs              ████░░░░░░░░░░░░░░░░░░░░░   18.72% </span></span>
-<span class="line"><span>Kotlin           1 hr 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% </span></span>
-<span class="line"><span>SQL              47 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%</span></span>
+<span class="line"><span>Java             45 hrs 30 mins     ██████████░░░░░░░░░░░░░░░   39.56% </span></span>
+<span class="line"><span>Python           38 hrs 15 mins     ████████░░░░░░░░░░░░░░░░░   33.26% </span></span>
+<span class="line"><span>SQL              15 hrs 45 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% </span></span>
+<span class="line"><span>PHP              10 hrs 10 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% </span></span>
+<span class="line"><span>Kotlin           5 hrs 20 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>🔥 Editors: </span></span>
-<span class="line"><span>VS Code          12 hrs 36 mins     ███████████████████░░░░░░   78.58% </span></span>
-<span class="line"><span>IntelliJ IDEA    3 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.27% </span></span>
-<span class="line"><span>Android Studio   20 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%</span></span>
+<span class="line"><span>IntelliJ IDEA    55 hrs 45 mins     ████████████░░░░░░░░░░░░░   48.47% </span></span>
+<span class="line"><span>VS Code          50 hrs 20 mins     ███████████░░░░░░░░░░░░░░   43.76% </span></span>
+<span class="line"><span>Android Studio   8 hrs 55 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>💻 Operating System: </span></span>
-<span class="line"><span>Linux            12 hrs 2 mins      ██████████████████░░░░░░░   75.0%</span></span>
-<span class="line"><span>Windows          4 hrs 0 mins       ███████░░░░░░░░░░░░░░░░░░   25.0%</span></span>
+<span class="line"><span>Linux            105 hrs 30 mins    ██████████████████████░░░   91.73%</span></span>
+<span class="line"><span>Windows          9 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%</span></span>
 </code></pre>
 <!--END_SECTION:waka-->
 
