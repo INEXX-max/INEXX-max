@@ -5,9 +5,9 @@
   
   <h2> / about me /</h2>
   <ul>
-    <li> currently working on <strong>public repositories</strong> and open-source projects</li>
-    <li> mostly focused on <strong>backend development and Linux environments</strong></li>
-    <li> a <strong>Computer Programming student</strong> working his way around things</li>
+    <li>⭐ currently working on <strong>public repositories</strong> and open-source projects</li>
+    <li>💻 mostly focused on <strong>backend development and Linux environments</strong></li>
+    <li>👾 a <strong>Computer Programming student</strong> working his way around things</li>
   </ul>
   
   <h2> / current skills / </h2>
