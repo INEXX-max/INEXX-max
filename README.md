@@ -21,7 +21,7 @@
   <li>💻 Backend development, database administration, and software architecture enthusiast.</li>
   <li>🛠️ Currently working on <strong>INEXX Safety</strong> (Kotlin, Jetpack Compose, Supabase) and AI-driven demand forecasting projects.</li>
   <li>🐧 Linux power user (Fedora, Zorin OS, CachyOS).</li>
-  <li>🎯 Preparing for the 2027 DGS to transition into Computer/Software Engineering.</li>
+  <li></li>
 </ul>
 
 <h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
