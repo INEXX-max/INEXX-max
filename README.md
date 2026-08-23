@@ -18,10 +18,9 @@
 
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> inexx</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
 <span class="line"><span style="color:#E1E4E8">    pronouns: </span><span style="color:#9ECBFF">"He"</span><span style="color:#F97583"> |</span><span style="color:#9ECBFF"> "Him"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"PHP"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Kotlin"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"JavaScript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SQL"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"PHP"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"JavaScript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SQL"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"backend dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"linux environments"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"database admin"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"local AI tools"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">    technologies: {</span></span>
-<span class="line"><span style="color:#E1E4E8">        mobileApp: [</span><span style="color:#9ECBFF">"Kotlin"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Jetpack Compose"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">        frontEnd: {</span></span>
 <span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"React"</span><span style="color:#E1E4E8">]</span></span>
 <span class="line"><span style="color:#E1E4E8">        },</span></span>
@@ -62,24 +61,16 @@
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Europe/Istanbul</span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>💬 Programming Languages: </span></span>
-<span class="line"><span>Java             45 hrs 30 mins     ██████████░░░░░░░░░░░░░░░   39.56% </span></span>
-<span class="line"><span>Python           38 hrs 15 mins     ████████░░░░░░░░░░░░░░░░░   33.26% </span></span>
-<span class="line"><span>SQL              15 hrs 45 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% </span></span>
-<span class="line"><span>PHP              10 hrs 10 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% </span></span>
-<span class="line"><span>Kotlin           5 hrs 20 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%</span></span>
+<span class="line"><span>Java             765 hrs            ██████████████████████░░░   87.83% </span></span>
+<span class="line"><span>Python           100 hrs            ███░░░░░░░░░░░░░░░░░░░░░░   11.48% </span></span>
+<span class="line"><span>PHP              6 hrs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% </span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>🔥 Editors: </span></span>
-<span class="line"><span>IntelliJ IDEA    55 hrs 45 mins     ████████████░░░░░░░░░░░░░   48.47% </span></span>
-<span class="line"><span>VS Code          50 hrs 20 mins     ███████████░░░░░░░░░░░░░░   43.76% </span></span>
-<span class="line"><span>Android Studio   8 hrs 55 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.77%</span></span>
+<span class="line"><span>IntelliJ IDEA    618 hrs            █████████████░░░░░░░░░░░░   51.29% </span></span>
+<span class="line"><span>VS Code          587 hrs            ████████████░░░░░░░░░░░░░   48.71% </span></span>
 <span class="line"><span></span></span>
 <span class="line"><span>💻 Operating System: </span></span>
-<span class="line"><span>Linux            105 hrs 30 mins    ██████████████████████░░░   91.73%</span></span>
-<span class="line"><span>Windows          9 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   8.27%</span></span>
+<span class="line"><span>Windows          1127 hrs           █████████████████░░░░░░░░   69.40% </span></span>
+<span class="line"><span>Linux            497 hrs            ████████░░░░░░░░░░░░░░░░░   30.60% </span></span>
 </code></pre>
 <!--END_SECTION:waka-->
-
-<p><strong>These Readme stats are generated using github action <a href="https://github.com/anmol098/waka-readme-stats">awesome-readme-stats</a></strong></p>
-
-<hr>
-<p>Credits: <a href="https://github.com/anmol098">anmol098</a> & Modified by INEXX</p>
