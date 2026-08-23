@@ -1,19 +1,58 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/223294838?v=4" width="150" alt="Muhammed İnanç">
+<p><img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Web-developer"></p>
+
+<h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
+<h3 id="hello-im-inexx">Hello! I’m INEXX, a Software Developer & Computer Programming student at İnönü University.</h3>
+
+<h3 id="portfolio">Portfolio/Brand: <a href="https://inexxinteractive.com">INEXX INTERACTIVE</a></h3>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img align="left" alt="INEXX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img align="left" alt="INEXX | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+</a>
+<br>
+<br>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+
+<h3>🚀 About Me</h3>
+<ul>
+  <li>🎓 Studying Computer Programming at <strong>İnönü University</strong>.</li>
+  <li>💻 Backend development, database administration, and software architecture enthusiast.</li>
+  <li>🛠️ Currently working on <strong>INEXX Safety</strong> (Kotlin, Jetpack Compose, Supabase) and AI-driven demand forecasting projects.</li>
+  <li>🐧 Linux power user (Fedora, Zorin OS, CachyOS).</li>
+  <li>🎯 Preparing for the 2027 DGS to transition into Computer/Software Engineering.</li>
+</ul>
+
+<h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
+<br>
+<p>
+<!-- Backend & Languages -->
+<a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" alt="Java"></a>
+<a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+</p>
+<p>
+<!-- Tools, Databases & Platforms -->
+<a href="#"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"></a>
+</p>
+<p>
+<!-- OS & Environment -->
+<a href="#"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
 </p>
 
-<h2 align="center">Welcome to my world 🌍</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="INEXX's Github Stats">
+</p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="visitor badge">
+</p>
 
-<h3 align="center">Hello! I'm Muhammed İnanç, a Full-Stack Developer & student at İnönü Üniversitesi.</h3>
-
-<h4 align="center">Portfolio: <a href="https://inexxinteractive.com">inexxinteractive.com</a></h4>
-
-[Sosyal ikonlar: GitHub, Kaggle, Gmail, Website]
-
-### 👨‍💻 Languages and Tools
-Java · Spring Boot · Kotlin · Python · Dart · Flutter · JavaScript · Node.js · PostgreSQL · MySQL · MongoDB · Docker · Git · Linux · IntelliJ · VS Code rozetleri
-
-### 📂 Public Projelerim (15 repo tablosu)
-Atm_Project, smart-bus-system, javaSpr-ngBootCamp, JavaDerseleri, BookSorter, m-ncraftSmallCapaning, kvasir-pathfinder, cs2-top-performer-analysis, python-basics, file-organizer, simple-calculator, isg-proje, NEXX INTERACTIVE, app-isgdester, linux-hub
-
-[GitHub stats kartı + ziyaretçi rozeti]
+<hr>
+<p>Credits: <a href="https://github.com/YOUR_GITHUB_USERNAME">INEXX</a></p>
