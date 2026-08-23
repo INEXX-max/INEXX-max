@@ -1,7 +1,7 @@
-<p><img src="https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png" alt="Web-developer"></p>
+<p><img src="YENI_BANNER_GORSELİNİN_GITHUB_LINKINI_BURAYA_YAPISTIR" alt="INEXX MAX - Java Developer"></p>
 
 <h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
-<h3 id="hello-im-inexx">Hello! I’m INEXX, a Software Developer & Computer Programming student at İnönü University.</h3>
+<h3 id="hello-im-inexx">Hello! I’m INEXX, a Java Developer & Computer Programming student at İnönü University.</h3>
 
 <h3 id="portfolio">Portfolio/Brand: <a href="https://inexxinteractive.com">INEXX INTERACTIVE</a></h3>
 
@@ -17,7 +17,7 @@
 
 <h3>🚀 About Me</h3>
 <ul>
-  <li>🎓 Studying Computer Programming at <strong>İnönü University</strong>.</li>
+  <li>🎓 Studying Computer <strong>İnönü University</strong>.</li>
   <li>💻 Backend development, database administration, and software architecture enthusiast.</li>
   <li>🛠️ Currently working on <strong>INEXX Safety</strong> (Kotlin, Jetpack Compose, Supabase) and AI-driven demand forecasting projects.</li>
   <li>🐧 Linux power user (Fedora, Zorin OS, CachyOS).</li>
