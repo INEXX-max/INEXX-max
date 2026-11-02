@@ -54,10 +54,36 @@
 
 <!-- ═══════════════════════ INEXX INTERACTIVE ═══════════════════════ -->
 
+## 🎮 INEXX Interactive
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:1f6feb&height=110&section=header&text=INEXX%20Interactive&fontSize=34&fontColor=ffffff&animation=twinkling&desc=Software%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Interactive%20Experiences&descSize=14&descColor=c9d1d9" width="100%" alt="INEXX Interactive" />
+</div>
 
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧩</h3>
+      <b>Yazılım</b><br>
+      <sub>Backend & full-stack çözümler</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📱</h3>
+      <b>Mobil</b><br>
+      <sub>Android & cross-platform uygulamalar</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🌐</h3>
+      <b>Web</b><br>
+      <sub>Modern, hızlı ve responsive arayüzler</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛡️</h3>
+      <b>İSG</b><br>
+      <sub>İş sağlığı & güvenliği platformları</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
@@ -90,7 +116,7 @@
 </p>
 
 <details>
-<summary><b> Detaylı Teknoloji Tablosu (genişletmek için tıkla)</b></summary>
+<summary><b>📋 Detaylı Teknoloji Tablosu (genişletmek için tıkla)</b></summary>
 <br>
 
 | Alan | Teknolojiler |
@@ -98,8 +124,8 @@
 | **Backend** | Java, Spring Boot, C#, .NET, PHP |
 | **Frontend** | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
 | **Mobil** | Kotlin, Flutter, Dart |
-| **Sistem** | Rust, Python |
-| **Veritabanı** | PostgreSQL, MySQL, Supabase |
+| **Sistem** | Rust, Python, Bash |
+| **Veritabanı** | PostgreSQL, MySQL, Supabase, Firebase |
 | **DevOps** | Docker, Git, GitHub Actions |
 | **IDE** | IntelliJ IDEA, Rider, VS Code, DataGrip, Android Studio |
 | **OS** | CachyOS (Arch Linux), Hyprland, Windows |
@@ -175,7 +201,11 @@ public class INEXXmax implements Developer {
 
 <br>
 
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INEXX-max&theme=github_dark" width="49%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INEXX-max&theme=github_dark" width="24%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INEXX-max&theme=github_dark" width="24%" alt="Commits per Language" />
+</div>
 
 <br>
 
@@ -200,7 +230,8 @@ public class INEXXmax implements Developer {
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Quote" />
+  <h3><i>"İyi yazılım bir günde değil, her gün atılan küçük ve doğru adımlarla büyür."</i></h3>
+  <sub>Build • Learn • Ship • Repeat 🚀</sub>
 </div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
