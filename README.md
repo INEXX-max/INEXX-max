@@ -54,11 +54,7 @@
 
 <!-- ═══════════════════════ INEXX INTERACTIVE ═══════════════════════ -->
 
-## 🎮 INEXX Interactive
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:1f6feb&height=110&section=header&text=INEXX%20Interactive&fontSize=34&fontColor=ffffff&animation=twinkling&desc=Software%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Interactive%20Experiences&descSize=14&descColor=c9d1d9" width="100%" alt="INEXX Interactive" />
-</div>
 
 <table align="center">
   <tr>
