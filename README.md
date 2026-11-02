@@ -56,30 +56,8 @@
 
 
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🧩</h3>
-      <b>Yazılım</b><br>
-      <sub>Backend & full-stack çözümler</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>📱</h3>
-      <b>Mobil</b><br>
-      <sub>Android & cross-platform uygulamalar</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🌐</h3>
-      <b>Web</b><br>
-      <sub>Modern, hızlı ve responsive arayüzler</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🛡️</h3>
-      <b>İSG</b><br>
-      <sub>İş sağlığı & güvenliği platformları</sub>
-    </td>
-  </tr>
-</table>
+
+
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
