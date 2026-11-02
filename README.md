@@ -1,76 +1,75 @@
-<h2>Merhaba (Hello)👋, I'm INEXX! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer & Computer Programming Student at <a href="https://www.inonu.edu.tr/">İnönü University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# 👋 Hello there! I'm INEXX
 
-<p>
-<a href="https://inexxinteractive.com"><img src="https://img.shields.io/badge/-INEXX%20INTERACTIVE-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/-INEXX-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN/" alt="Linkedin"></a>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB?label=Follow&style=social" alt="GitHub followers">
-<img src="https://visitor-badge.glitch.me/badge?page_id=YOUR_GITHUB.YOUR_GITHUB" alt="Visitor Badge">
+### I do Software Development & Full-Stack Engineering things
+
+![Profile views](https://komarev.com/ghpvc/?username=INEXX-max&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/INEXX-max?label=followers&style=flat&logo=github)
+![OS](https://img.shields.io/badge/OS-CachyOS%20%7C%20Linux-00A896?style=flat&logo=linux&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Software%20Developer-blue?style=flat)
+
+<img align="right" width="43%" src="https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" alt="INEXX's GitHub Statistics" />
+
+- 🏢 Founder & Lead Software Developer at **INEXX INTERACTIVE**
+- 🌱 Currently building scalable backend systems & modern web applications
+- 💬 I like to talk about **Java, Spring Boot, C#, Rust, and Linux**
+- 🐧 Daily driving **CachyOS & Linux** environments
+- 📫 Ask me anything on my [issues page](https://github.com/INEXX-max/INEXX-max/issues)
+- 💻 Check out my repositories and projects on [GitHub](https://github.com/INEXX-max)
+
+<br clear="both"/>
+
+## Favorite Tech
+
+> Tools, languages, and operating systems that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      <br><strong>Spring Boot</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br><strong>C#</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+      <br><strong>Rust</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br><strong>PHP</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/CachyOS/CachyOS-PKGBUILDS/master/cachyos-wallpapers/logo.svg" onerror="this.src='https://avatars.githubusercontent.com/u/86966139?s=200&v=4'" width="48" height="48" alt="CachyOS" />
+      <br><strong>CachyOS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+  </tr>
+</table>
+
+## Coding Activity
+
+<p align="left">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INEXX-max&theme=github-dark-blue&background=0D1117" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INEXX-max&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
-
-<p>👇 Hit in your console or terminal to connect with me.</p>
-
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#B392F0">npx</span><span style="color:#9ECBFF"> inexx</span></span></code></pre>
-
-<h3 id="-a-little-more-about-me"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me…</h3>
-
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> inexx</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
-<span class="line"><span style="color:#E1E4E8">    pronouns: </span><span style="color:#9ECBFF">"He"</span><span style="color:#F97583"> |</span><span style="color:#9ECBFF"> "Him"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    code: [</span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"PHP"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"JavaScript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"SQL"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    askMeAbout: [</span><span style="color:#9ECBFF">"backend dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"linux environments"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"database admin"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"local AI tools"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    technologies: {</span></span>
-<span class="line"><span style="color:#E1E4E8">        frontEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            js: [</span><span style="color:#9ECBFF">"React"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        backEnd: {</span></span>
-<span class="line"><span style="color:#E1E4E8">            core: [</span><span style="color:#9ECBFF">"Java"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"PHP"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python (Pandas, CP-SAT)"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">        },</span></span>
-<span class="line"><span style="color:#E1E4E8">        devOps: [</span><span style="color:#9ECBFF">"Linux (Fedora, Zorin, CachyOS)"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Docker🐳"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Azure"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Cloudflare"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">        databases: [</span><span style="color:#9ECBFF">"MySQL"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"PostgreSQL"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Supabase"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">        misc: [</span><span style="color:#9ECBFF">"Ollama"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"DeepSeek"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"VS Code"</span><span style="color:#E1E4E8">]</span></span>
-<span class="line"><span style="color:#E1E4E8">    },</span></span>
-<span class="line"><span style="color:#E1E4E8">    architecture: [</span><span style="color:#9ECBFF">"Backend Architecture"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Secure Data Isolation"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Demand Forecasting"</span><span style="color:#E1E4E8">],</span></span>
-<span class="line"><span style="color:#E1E4E8">    currentProject: </span><span style="color:#9ECBFF">"I am developing INEXX Safety and building AI-driven demos for Teknofest."</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">    funFact: </span><span style="color:#9ECBFF">"There are two ways to write error-free programs; only the third one works."</span></span>
-<span class="line"><span style="color:#E1E4E8">};</span></span></code></pre>
-
-<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> 😊</em></p>
-
-<hr>
-
-<!--START_SECTION:waka-->
-<p><img src="http://img.shields.io/badge/Profile%20Views-1621-blue" alt="Profile Views"></p>
-
-<p><strong>🐱 My Github Data</strong></p>
-<blockquote>
-  <p>🏆 Frequent Contributions in the Current Year</p>
-  <p>📦 Working efficiently with Cloud & Local Environments</p>
-  <p>💼 Open to Collaborations</p>
-</blockquote>
-
-<p><strong>I’m a Night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.64% </span></span>
-<span class="line"><span>🌆 Daytime    98 commits     █████████░░░░░░░░░░░░░░░░   31.55% </span></span>
-<span class="line"><span>🌃 Evening    95 commits     █████████░░░░░░░░░░░░░░░░   30.93% </span></span>
-<span class="line"><span>🌙 Night      71 commits     ███████░░░░░░░░░░░░░░░░░░   22.89%</span></span>
-</code></pre>
-
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Europe/Istanbul</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>💬 Programming Languages: </span></span>
-<span class="line"><span>Java             765 hrs            ██████████████████████░░░   87.83% </span></span>
-<span class="line"><span>Python           100 hrs            ███░░░░░░░░░░░░░░░░░░░░░░   11.48% </span></span>
-<span class="line"><span>PHP              6 hrs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% </span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>🔥 Editors: </span></span>
-<span class="line"><span>IntelliJ IDEA    618 hrs            █████████████░░░░░░░░░░░░   51.29% </span></span>
-<span class="line"><span>VS Code          587 hrs            ████████████░░░░░░░░░░░░░   48.71% </span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>💻 Operating System: </span></span>
-<span class="line"><span>Windows          1127 hrs           █████████████████░░░░░░░░   69.40% </span></span>
-<span class="line"><span>Linux            497 hrs            ████████░░░░░░░░░░░░░░░░░   30.60% </span></span>
-</code></pre>
-<!--END_SECTION:waka-->
