@@ -1,22 +1,26 @@
-<!-- ÜST MİNİMALİST KAPAK -->
+<!-- ÜST ŞIK BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=90&section=header&text=INEXX-max%20%E2%80%A2%20Software%20Developer&fontSize=26&fontColor=c9d1d9&fontFamily=Fira+Code&fontWeight=600" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=130&section=header&text=INEXX-max&fontSize=40&fontColor=c9d1d9&fontFamily=Fira+Code&fontWeight=600&animation=fadeIn&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer&descSize=15&descColor=8b949e" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+%7C+Full-Stack+Engineer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+C%23+%E2%80%A2+Rust;CachyOS+%7C+Linux+Environment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Backend+Architectures+%7C+Cloud+Systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+C%23+%E2%80%A2+Rust;CachyOS+%7C+Linux+Development+Environment" alt="Typing SVG" />
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=INEXX-max&color=30363d&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
   <img src="https://img.shields.io/github/followers/INEXX-max?label=FOLLOWERS&style=flat-square&logo=github&color=30363d&labelColor=161b22" alt="Followers" />
   <img src="https://img.shields.io/badge/OS-CachyOS%20%7C%20Linux-30363d?style=flat-square&logo=linux&logoColor=white&labelColor=161b22" alt="OS" />
   <img src="https://img.shields.io/badge/ENV-Hyprland-30363d?style=flat-square&logo=wayland&logoColor=white&labelColor=161b22" alt="WM" />
+  <img src="https://img.shields.io/badge/REPOS-Public-30363d?style=flat-square&logo=git&logoColor=white&labelColor=161b22" alt="Repos" />
 </p>
 
 ---
 
-<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d" alt="Stats" />
+<!-- SAĞ İSTATİSTİK KARTI VE SOL METİN -->
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=INEXX-max&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d" alt="Stats" />
 
 ### 💻 About Me
 
@@ -69,7 +73,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-      <br><sub><b>JavaScript</b></sub>
+      <br><sub><b>JS</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
@@ -91,7 +95,7 @@
 </table>
 </div>
 
-### 🛠️ IDEs & Databases
+### 🛠️ IDEs, Databases & Ecosystem
 
 <div align="center">
 <table>
@@ -126,7 +130,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=INEXX-max&theme=github-dark&background=0d1117&border=30363d&ring=58a6ff&fire=8b949e" alt="Streak" />
@@ -135,12 +139,14 @@
 
 <br>
 
+<!-- CANLI AKTİVİTE GRAFİĞİ -->
 <div align="center">
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INEXX-max&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" />
 </div>
 
 <br>
 
+<!-- KATKI YILANI (SNAKE) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INEXX-max/INEXX-max/output/github-contribution-grid-snake-dark.svg" />
@@ -149,6 +155,7 @@
   </picture>
 </div>
 
+<!-- ALT MİNİMALİST KAPAK -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=footer" alt="Footer" />
 </div>
