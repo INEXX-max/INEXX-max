@@ -90,7 +90,7 @@
 </p>
 
 <details>
-<summary><b>📋 Detaylı Teknoloji Tablosu (genişletmek için tıkla)</b></summary>
+<summary><b> Detaylı Teknoloji Tablosu (genişletmek için tıkla)</b></summary>
 <br>
 
 | Alan | Teknolojiler |
@@ -98,8 +98,8 @@
 | **Backend** | Java, Spring Boot, C#, .NET, PHP |
 | **Frontend** | React, Next.js, JavaScript, TypeScript, Tailwind CSS |
 | **Mobil** | Kotlin, Flutter, Dart |
-| **Sistem** | Rust, Python, Bash |
-| **Veritabanı** | PostgreSQL, MySQL, Supabase, Firebase |
+| **Sistem** | Rust, Python |
+| **Veritabanı** | PostgreSQL, MySQL, Supabase |
 | **DevOps** | Docker, Git, GitHub Actions |
 | **IDE** | IntelliJ IDEA, Rider, VS Code, DataGrip, Android Studio |
 | **OS** | CachyOS (Arch Linux), Hyprland, Windows |
@@ -175,11 +175,7 @@ public class INEXXmax implements Developer {
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=INEXX-max&theme=github_dark" width="49%" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=INEXX-max&theme=github_dark" width="24%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=INEXX-max&theme=github_dark" width="24%" alt="Commits per Language" />
-</div>
+
 
 <br>
 
