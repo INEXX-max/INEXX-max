@@ -22,12 +22,12 @@
 
 ### ⚡ About Me
 
-- 🏢 Founder & Lead Software Developer at **INEXX INTERACTIVE** *(SteaUpDev)*
+- 🏢  Software Developer at **INEXX-max*
 - 🛠️ Architecting enterprise backends, cloud infrastructures & modern web platforms
 - 🚀 Team Captain & AI/Optimization Developer for competitive engineering projects
 - 💬 Passionate about **Java, Spring Boot, C#, .NET, Rust, Python, and React**
 - 🐧 Daily driving **CachyOS (Arch Linux)** with **Hyprland** alongside tweaked **Windows**
-- 📫 Reach out or ask me anything via my [issues page](https://github.com/INEXX-max/INEXX-max/issues)
+
 
 <br clear="both"/>
 
